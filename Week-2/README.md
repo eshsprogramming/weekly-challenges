@@ -6,4 +6,4 @@ Scored On: N/A
 Resources
 ---------
 Basic overview and formal definition: [Big O](http://en.wikipedia.org/wiki/Big_O_notation)   
-So you guys don't sound like idiots, [the diffence between big O and big theta]
+So you guys don't sound like idiots, [the diffence between big O and big theta](http://stackoverflow.com/questions/3230122/big-oh-vs-big-theta)
