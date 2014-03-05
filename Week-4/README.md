@@ -2,6 +2,7 @@ Encryption, Decryption
 ==============
 Objective: Scramble and unscramble a string given a key.
 Scored: Correctness and Difficulty to Crack
+
 Encryption:  
   Example Input: "hello there how are you", "key"  
   Example Ouput: "asdfas;kjvncx,msac'[k a"
